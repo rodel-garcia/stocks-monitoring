@@ -1,3 +1,8 @@
+# Stocks Monitoring App
+
+https://user-images.githubusercontent.com/4024589/140320426-de082004-7a77-4344-a019-c41c6ad7a5d3.mp4
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
